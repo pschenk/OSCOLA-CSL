@@ -5,9 +5,15 @@
     <title>OSCOLA - Oxford Standard for Citation of Legal Authorities</title>
     <id>http://www.zotero.org/styles/oscola</id>
     <author>
-        <name>Virgilio Afonso da Silva (University of Sao Paulo)</name>
+        <name>Virgilio Afonso da Silva</name>
     </author>
-    <updated>2011-02-25T09:00:00+00:00</updated>
+     <author>
+        <name>Penny Schenk</name>
+       <email>penny.schenk@bodleian.ox.ac.uk</email>
+    </author>
+    <category term="note"/>
+    <category term="law"/>
+    <updated>2011-04-15T12:39:00+00:00</updated>
     <summary>A still incomplete style (handles only secondary sources) for the OSCOLA standards</summary>
     <rights>This work is licensed under a Creative Commons Attribution-Share Alike 3.0 License: http://creativecommons.org/licenses/by-sa/3.0/</rights>
   </info>
